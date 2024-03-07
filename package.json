@@ -1,0 +1,15 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "a complete project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javscript",
+    "backend"
+  ],
+  "author": "Anurag kumar",
+  "license": "ISC"
+}
